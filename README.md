@@ -20,9 +20,11 @@ HO ClipTrace helps you quickly find copied text, images, files, and file paths, 
 
 ## ⬇️ Download
 
-The app can be used for **30 minutes per session** without a license.
+You can try the app for **30 minutes without a license**.
 
-A lifetime license removes the session limit.
+Restarting the app starts a new trial session.
+
+A lifetime license removes this time limit.
 
 [Download the latest version](https://github.com/HOStudioApps/HO-ClipTrace/releases/latest)
 
